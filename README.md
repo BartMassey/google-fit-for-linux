@@ -1,3 +1,5 @@
+This is a thing that does stuff.
+
 ## Privacy Policy
 
 This thing is intended only for me. No privacy is assured. Do
